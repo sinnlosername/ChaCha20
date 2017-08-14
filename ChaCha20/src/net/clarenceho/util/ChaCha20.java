@@ -14,6 +14,9 @@ import java.util.Arrays;
  * ~ https://github.com/quartzjer/chacha20
  * ~ https://github.com/jotcmd/chacha20
  */
+
+// This was re-coded by an austrian developer, so expect bugs in every line of the code! :P
+
 public class ChaCha20 {
     
     /*
